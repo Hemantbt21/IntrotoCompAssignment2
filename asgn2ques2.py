@@ -1,4 +1,4 @@
-#ques2
+#ques2_storing info into different variables and printing output using string formating
 name='Hemant'
 txt='Hey,%s Here!'%(name)
 print(txt)
